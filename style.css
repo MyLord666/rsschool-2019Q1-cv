@@ -1,0 +1,116 @@
+h1 {
+  margin: 0;
+  font-size: 50px;
+  font-family: 'Special Elite', cursive;
+  color: rgb(162, 6, 6);
+}
+h3 {
+  margin: 0;
+  padding: 0;
+  font-family: 'Special Elite', cursive;
+  font-size: 35px;
+  color: rgb(162, 6, 6);
+}
+body {
+  width: 840px;
+  margin: 0 auto;
+  padding: 20px 0;
+  background-color: rgb(227, 227, 227);
+}
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.head .photo {
+  width: 240px;
+  height: 240px;
+  border-radius: 50px 20px;
+  border: 5px solid rgb(142, 11, 11);
+  background-position: center;
+  background-size: cover;
+  background-image: url(photo.jpg);
+  margin: 10px;
+}
+
+.head .text {
+  margin-right: 100px;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+.contacts a {
+  font-family: 'Special Elite', cursive;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  margin-top: 4px;
+}
+a:hover {
+  color: rgb(170, 14, 14);
+}
+.email, .facebook, .number {
+  display: flex;
+  margin: 10px;
+}
+.email__icon, .facebook__icon, .number__icon {
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 10px;
+}
+.email__icon {
+  background-image: url(mail.svg);
+}
+.facebook__icon {
+  background-image: url(facebook-f.svg);
+}
+.number__icon {
+  background-image: url(mobile-alt.svg);
+}
+
+.skills>div {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+.skills p {
+  font-size: 15px;
+  width: 110px;
+}
+.cpp__bar, .html-css__bar, .photoshop__bar, .git__bar {
+  width: 150px;
+  height: 13px;
+  border: 2px solid #000000;
+  opacity: .8;
+}
+.cpp__bar-content, .html-css__bar-content, .photoshop__bar-content, .git__bar-content {
+  height: 100%;
+  background-color: rgb(180, 4, 4);
+}
+.cpp__bar-content {
+  width: 40%;
+}
+.html-css__bar-content {
+  width: 50%;
+}
+.photoshop__bar-content {
+  width: 60%;
+}
+.git__bar-content {
+  width: 45%;
+}
+
+.main-content__right {
+  margin-left: 100px;
+}
+
+p {
+  font-family: 'Special Elite', cursive;
+}
