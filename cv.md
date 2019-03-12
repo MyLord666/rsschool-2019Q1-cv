@@ -7,8 +7,14 @@
 1. My skills:
     *  Basic C++, HTML/CSS, Photoshop.
 1. My experience:
-    *  Experience with C + + did lab work in University.
+    *  Experience with C ++ did laboratory work at the university, there is still experience in using photoshop, I learned to work with it for
+    about three months, with proper repetition, you can work on it well.
+    HTML and CSS have only recently begun to teach, but I can say that
+    there is already success, but as long as they are small, I will
+    soon be better off.
 1. Education:
-    *  I study at the Belarusian State University of Informatics and Radioelectronics, in the second year, I will graduate from the University in 2021.
+    *  I study at the Belarusian State University of Informatics and
+    Radioelectronics, in the second year, I will graduate from the
+    University in 2021.
 1. English Level:
     *  A2
